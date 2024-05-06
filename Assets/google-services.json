@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "929564304019",
+    "project_id": "bubble-shooter-ca6c4",
+    "storage_bucket": "bubble-shooter-ca6c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929564304019:android:f949e203f8636906f96366",
+        "android_client_info": {
+          "package_name": "com.starts.BubbleShooter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929564304019-utnp7lsbn6tvqis4sfko3m5kvfb10hjs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0fEF4W97_h8NMeagyutZbfwjgtdFOVjs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "929564304019-utnp7lsbn6tvqis4sfko3m5kvfb10hjs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
